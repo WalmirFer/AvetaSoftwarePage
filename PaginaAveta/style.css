@@ -1,19 +1,36 @@
+*{
+    margin: 5px;
+}
+
 body {
-    font-family: Helvetica, sans-serif;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
     background-color: #303030;
-    color: white;
 }
 
 .titulo1 {
-
-    color: #76c6e0;
+    
+    font-family: 'Bebas Neue', sans-serif;
+    color: #fcfc95;
     font-size: 26px;
+    margin-bottom: 3%;
 }
 
 p {
-    font-size: 24px;
+    font-size: 18px;
+    color: white;
+    margin-top: 1.5%;
+    text-align: center;
 }
 
 h2 {
+    color: #fcfc95;
     font-size: 20px;
+    margin-bottom: 2.5%;
+    font-weight: 700;
+}
+
+#Grif {
+    color: #ffff36;
+    margin: 5px;
 }
