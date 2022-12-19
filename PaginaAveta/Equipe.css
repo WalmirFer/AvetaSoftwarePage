@@ -1,0 +1,171 @@
+* {
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+
+a {
+    color: white;
+}
+
+header {
+
+    top: 0px; 
+    width: 100%;
+    height: 75px;
+    background-color: black;
+    overflow: hidden;
+    color: white;
+    display: flex;
+    justify-content: space-around ;
+}
+
+.item-header {
+
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+    width: 100%;
+}
+
+
+footer {
+    position: absolute; 
+    bottom: 0px; 
+    width: 100%;
+    height: 40px;
+    background-color: black;
+    color:white;
+    margin-right: auto;
+    overflow: hidden;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+}
+
+body {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    background-color: #303030;
+}
+
+p {
+    font-size: 16px;
+    color: white;
+    margin-top: 1.5%;
+    text-align: justify;
+    text-indent: 30px;
+}
+
+h2 {
+    color: white;
+    font-size: 20px;
+    margin-bottom: 2.5%;
+    font-weight: 550;
+}
+
+ul {
+
+    list-style: none;
+    padding-right: 15px;
+
+}
+
+li {
+    list-style: none
+}
+
+
+
+
+.footer-icons {
+
+    padding-left: 10px;
+    display: flex;
+}
+
+
+.icones-contato {
+
+    display: flex;
+    justify-content: end;
+    margin-right: 5px;
+}
+
+.frase-footer {
+    width: 100%;
+    justify-content: center;
+}
+
+.logoaveta-footer {
+
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.box-text {
+
+    width: 720px;
+    height: 100%;
+    margin: auto;
+
+
+}
+
+#grif {
+    color: #fcfc95;
+
+}
+
+#frase {
+
+    align-items: center;
+    margin: auto;
+}
+
+#titulo1 {
+    
+    font-family: 'Bebas Neue', sans-serif;
+    color: #fcfc95;
+    font-size: 42px;
+    padding-bottom: 30px;
+    padding-top: 60px;
+    padding-left: 10px;
+    text-align: left;
+}
+
+/*
+
+#copy {
+
+    padding: 5px;
+
+}
+
+.copy-footer {
+
+    display: flex;
+    align-items: center;
+    margin-left: 30px;
+    margin-top: 24px;
+}
+
+.avetacopy {
+
+    
+    font-size: 10px;
+    padding-right: 3px;
+
+}
+
+*/
+
+
+
+
+
+
